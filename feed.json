@@ -6,5 +6,76 @@
 	"feed_url": "https://winnick.is/feed.json",
 	"items": [
 		
+			{
+				"id": "http://zwin.micro.blog/2023/06/03/inspired-by-stickerspotter.html",
+				
+				"content_html": "<p>Inspired by <a href=\"https://micro.blog/stickerspotter\">@stickerspotter</a>…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Inspired by [@stickerspotter](https://micro.blog/stickerspotter)…\n\n<img src=\"uploads/2023/01246757ad.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-06-03T12:52:23-07:00",
+				"url": "https://winnick.is/2023/06/03/inspired-by-stickerspotter.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://zwin.micro.blog/2023/06/02/migrated-all-of.html",
+				
+				"content_html": "<p>Migrated all of my e-mail from <a href=\"https://www.fastmail.com\">Fastmail</a> to <a href=\"https://www.tutanota.com\">Tutanota</a> today.</p>\n<p>I wasn&rsquo;t using too many of the features on Fastmail, so I decided to go with the more secure, cheaper option at Tutanota.</p>\n<p>Knowing me, I&rsquo;ll either switch back or move back over to <a href=\"https://proton.me\">Proton</a> in a couple of weeks.</p>\n",
+				"content_text": "Migrated all of my e-mail from [Fastmail](https://www.fastmail.com) to [Tutanota](https://www.tutanota.com) today. \r\n\r\nI wasn't using too many of the features on Fastmail, so I decided to go with the more secure, cheaper option at Tutanota. \r\n\r\nKnowing me, I'll either switch back or move back over to [Proton](https://proton.me) in a couple of weeks. \n",
+				"date_published": "2023-06-02T17:50:45-07:00",
+				"url": "https://winnick.is/2023/06/02/migrated-all-of.html"
+			},
+			{
+				"id": "http://zwin.micro.blog/2023/05/31/currently-reading-to.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781426223303\">To Infinity and Beyond</a> by Neil DeGrasse Tyson 📚</p>\n<p>Honored to have received an advanced copy of this. Can’t wait to dig in!</p>\n",
+				"content_text": "Currently reading: [To Infinity and Beyond](https://micro.blog/books/9781426223303) by Neil DeGrasse Tyson 📚\n\nHonored to have received an advanced copy of this. Can’t wait to dig in!\n",
+				"date_published": "2023-05-31T12:29:47-07:00",
+				"url": "https://winnick.is/2023/05/31/currently-reading-to.html",
+				"tags": ["Posts"]
+			},
+			{
+				"id": "http://zwin.micro.blog/2023/04/15/beautiful-day-for.html",
+				
+				"content_html": "<p>Beautiful day for Mets baseball. I’ve now seen them play in 8 parks around the country. Of course, they beat the A’s 3-2.</p>\n<p>It was a good day…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Beautiful day for Mets baseball. I’ve now seen them play in 8 parks around the country. Of course, they beat the A’s 3-2.\n\nIt was a good day…\n\n<img class=\"alignnone wp-image-88 size-full\" src=\"https://winnick.is/uploads/2023/e15b44b357.jpg\" alt=\"\" width=\"1800\" height=\"1350\">\n",
+				"date_published": "2023-04-15T20:54:29-07:00",
+				"url": "https://winnick.is/2023/04/15/beautiful-day-for.html",
+				"tags": ["Photos","Status"]
+			},
+			{
+				"id": "http://zwin.micro.blog/2023/04/08/way-more-happy.html",
+				
+				"content_html": "<p>Way more happy than I should be to have my <!-- raw HTML omitted -->Breville Oracle Touch<!-- raw HTML omitted --> back from repair.</p>\n<p>I almost forgot what a good cup of home brewed coffee tasted like.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Way more happy than I should be to have my <a href=\"https://www.breville.com/us/en/products/espresso/bes990.html\">Breville Oracle Touch</a> back from repair.\n\nI almost forgot what a good cup of home brewed coffee tasted like.\n\n<img src=\"uploads/2023/9209d92444.jpg\" alt=\"\" width=\"600\" height=\"450\">\n",
+				"date_published": "2023-04-08T11:06:14-07:00",
+				"url": "https://winnick.is/2023/04/08/way-more-happy.html",
+				"tags": ["Photos","Status"]
+			},
+			{
+				"id": "http://zwin.micro.blog/2023/03/28/fog-over-the.html",
+				
+				"content_html": "<p>Fog over the northern Santa Rosa valley, getting on an <!-- raw HTML omitted -->Avelo<!-- raw HTML omitted --> flight to Burbank a couple of weeks ago.</p>\n<p>(Also testing the new upload feature in the <!-- raw HTML omitted -->Micro.blog<!-- raw HTML omitted --> beta.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Fog over the northern Santa Rosa valley, getting on an <a href=\"https://aveloair.com\">Avelo</a> flight to Burbank a couple of weeks ago.\n\n(Also testing the new upload feature in the <a href=\"https://micro.blog\">Micro.blog</a> beta.\n\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/47bf62a837.jpg\" alt=\"\" width=\"600\" height=\"450\">\n",
+				"date_published": "2023-03-28T13:27:15-07:00",
+				"url": "https://winnick.is/2023/03/28/fog-over-the.html",
+				"tags": ["Photos","Status"]
+			},
+			{
+				"id": "http://zwin.micro.blog/2023/03/26/spent-the-day.html",
+				
+				"content_html": "<p>Spent the day at <!-- raw HTML omitted -->Armstrong Redwoods State Natural Reserve<!-- raw HTML omitted -->. It was incredible, and surprisingly peaceful.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Spent the day at <a href=\"https://www.parks.ca.gov/?page_id=450\">Armstrong Redwoods State Natural Reserve</a>. It was incredible, and surprisingly peaceful.\n\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/ccd3bb601a.jpg\" alt=\"\">\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/c33a303fbe.jpg\" alt=\"\">\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/0b9cffc92e.jpg\" alt=\"\">\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/68ad94d955.jpg\" alt=\"\">\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/03c076053d.jpg\" alt=\"\">\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/ac90f97d12.jpg\" alt=\"\">\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/2855a00602.jpg\" alt=\"\">\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/b8e6e87f50.jpg\" alt=\"\">\n",
+				"date_published": "2023-03-26T22:28:35-07:00",
+				"url": "https://winnick.is/2023/03/26/spent-the-day.html",
+				"tags": ["Photos","Status"]
+			},
+			{
+				"id": "http://zwin.micro.blog/2023/02/15/la-kings-fanfest.html",
+				"title": "LA Kings Fanfest 2023",
+				"content_html": "<p>The rare moment I’m in front of a camera.</p>\n<p>Totally worth it to meet my favorite LA Kings player, Pheonix Copley (he’s the starting goalie, and yes…that’s how he spells his name).</p>\n<p>This was at the 2023 Kings Fan Fest at the Microsoft Theater (across the street from Staples Cen…I mean Crypto.com Arena).</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The rare moment I’m in front of a camera.\n\nTotally worth it to meet my favorite LA Kings player, Pheonix Copley (he’s the starting goalie, and yes…that’s how he spells his name).\n\nThis was at the 2023 Kings Fan Fest at the Microsoft Theater (across the street from Staples Cen…I mean Crypto.com Arena).\n\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/9d6f6ba1f3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-15T21:24:45-07:00",
+				"url": "https://winnick.is/2023/02/15/la-kings-fanfest.html",
+				"tags": ["Posts","Photos"]
+			}
 	]
 }
