@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://zwin.micro.blog/2023/06/15/this-video-by.html",
+				
+				"content_html": "<p><a href=\"https://youtube.com/watch?v=kvN5_GXlg2Y&amp;feature=share8\">This</a> video by <a href=\"https://mkbhd.com\">MKBHD</a> is a fascinating dive into how Apple markets its products without using “common” buzzwords.</p>\n<p>As a former Apple employee, we find it annoying as well. 😏</p>\n",
+				"content_text": "[This](https://youtube.com/watch?v=kvN5_GXlg2Y&feature=share8) video by [MKBHD](https://mkbhd.com) is a fascinating dive into how Apple markets its products without using “common” buzzwords. \n\nAs a former Apple employee, we find it annoying as well. 😏\n",
+				"date_published": "2023-06-15T20:49:59-07:00",
+				"url": "https://winnick.is/2023/06/15/this-video-by.html"
+			},
+			{
+				"id": "http://zwin.micro.blog/2023/06/10/drove-out-to.html",
+				
+				"content_html": "<p>Drove out to <a href=\"https://www.francisfordcoppolawinery.com/\">Francis Ford Coppola Winery</a> today. I was really excited, but came out disappointed. I was really expecting more from the &ldquo;museum&rdquo;.</p>\n<p>However, it did allow for a stop in Downtown Healdsburg, where one of my favorite butcher shops in all of CA resides, <a href=\"https://journeymanmeat.com/\">Journeyman Meat Co.</a>.</p>\n<p>Plus, they have these awesome paintings in the bathroom&hellip;</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Drove out to [Francis Ford Coppola Winery](https://www.francisfordcoppolawinery.com/) today. I was really excited, but came out disappointed. I was really expecting more from the \"museum\". \n\nHowever, it did allow for a stop in Downtown Healdsburg, where one of my favorite butcher shops in all of CA resides, [Journeyman Meat Co.](https://journeymanmeat.com/).\n\nPlus, they have these awesome paintings in the bathroom...\n\n<img src=\"uploads/2023/e253820256.jpeg\" width=\"600\" height=\"423\" alt=\"\"><img src=\"uploads/2023/6b87ae3d58.jpeg\" width=\"600\" height=\"432\" alt=\"\"><img src=\"uploads/2023/f12499369c.jpeg\" width=\"600\" height=\"481\" alt=\"\">\n",
+				"date_published": "2023-06-10T18:17:35-07:00",
+				"url": "https://winnick.is/2023/06/10/drove-out-to.html",
+				"tags": ["Posts","Photos"]
+			},
+			{
 				"id": "http://zwin.micro.blog/2023/06/05/initial-thoughts-on.html",
 				"title": "Initial Thoughts on Vision Pro",
 				"content_html": "<p>Here are some of my thoughts on the new <a href=\"https://www.apple.com/apple-vision-pro/\">Apple Vision Pro</a>&hellip;</p>\n<ul>\n<li>$3499. Yikes. However, I think I can get over that with the rest of my points&hellip;</li>\n<li>This is an amazing piece of technology. What they packed in there is just insane.</li>\n<li>It essentially eliminated the need for pretty much every tech-driven device in your house.</li>\n<li>You no longer need a TV, sound system, or a computer. Obviously, I am writing this <em>right after</em> the Keynote, so I don&rsquo;t know what connectivity looks like, so there could be more on this list.</li>\n<li>Looking at it from an enterprise perspective, the $3499 price tag is roughly in the mid-point of what companies spend on new hire equipment and setup. Just give them one of these, and they&rsquo;re set (even for remote work).</li>\n<li>All the tech that Apple has been working on for, at least, the past 5-7 years was to get to this product. It&rsquo;s quite remarkable.</li>\n</ul>\n<p>That&rsquo;s all for now. I&rsquo;m sure I&rsquo;ll have more thoughts as I watch videos from the demo area, and subsequent follow-up videos from my favorite tech peeps.</p>\n",
@@ -16,14 +33,6 @@
 				"tags": ["Posts"]
 			},
 			{
-				"id": "http://zwin.micro.blog/2023/06/04/follow-up-to.html",
-				
-				"content_html": "<p>Follow up to my <a href=\"https://winnick.is/2023/06/02/migrated-all-of.html\">post</a> from the other day…</p>\n<p>Not a huge fan of <a href=\"https://www.tutanota.com\">Tutanota</a>. There’s a lot that they do right, but not enough for me.</p>\n<p>Moved everything to <a href=\"https://www.skiff.com\">Skiff</a>. I’ve had an account there since they started up, and never really used it.</p>\n<p>Let’s see what happens…</p>\n",
-				"content_text": "Follow up to my [post](https://winnick.is/2023/06/02/migrated-all-of.html) from the other day…\n\nNot a huge fan of [Tutanota](https://www.tutanota.com). There’s a lot that they do right, but not enough for me. \n\nMoved everything to [Skiff](https://www.skiff.com). I’ve had an account there since they started up, and never really used it.\n\nLet’s see what happens…\n",
-				"date_published": "2023-06-04T11:25:37-07:00",
-				"url": "https://winnick.is/2023/06/04/follow-up-to.html"
-			},
-			{
 				"id": "http://zwin.micro.blog/2023/06/03/inspired-by-stickerspotter.html",
 				
 				"content_html": "<p>Inspired by <a href=\"https://micro.blog/stickerspotter\">@stickerspotter</a>…</p>\n<!-- raw HTML omitted -->\n",
@@ -31,14 +40,6 @@
 				"date_published": "2023-06-03T12:52:23-07:00",
 				"url": "https://winnick.is/2023/06/03/inspired-by-stickerspotter.html",
 				"tags": ["Photos"]
-			},
-			{
-				"id": "http://zwin.micro.blog/2023/06/02/migrated-all-of.html",
-				
-				"content_html": "<p>Migrated all of my e-mail from <a href=\"https://www.fastmail.com\">Fastmail</a> to <a href=\"https://www.tutanota.com\">Tutanota</a> today.</p>\n<p>I wasn&rsquo;t using too many of the features on Fastmail, so I decided to go with the more secure, cheaper option at Tutanota.</p>\n<p>Knowing me, I&rsquo;ll either switch back or move back over to <a href=\"https://proton.me\">Proton</a> in a couple of weeks.</p>\n",
-				"content_text": "Migrated all of my e-mail from [Fastmail](https://www.fastmail.com) to [Tutanota](https://www.tutanota.com) today. \r\n\r\nI wasn't using too many of the features on Fastmail, so I decided to go with the more secure, cheaper option at Tutanota. \r\n\r\nKnowing me, I'll either switch back or move back over to [Proton](https://proton.me) in a couple of weeks. \n",
-				"date_published": "2023-06-02T17:50:45-07:00",
-				"url": "https://winnick.is/2023/06/02/migrated-all-of.html"
 			},
 			{
 				"id": "http://zwin.micro.blog/2023/05/31/currently-reading-to.html",
@@ -70,8 +71,8 @@
 			{
 				"id": "http://zwin.micro.blog/2023/03/28/fog-over-the.html",
 				
-				"content_html": "<p>Fog over the northern Santa Rosa valley, getting on an <!-- raw HTML omitted -->Avelo<!-- raw HTML omitted --> flight to Burbank a couple of weeks ago.</p>\n<p>(Also testing the new upload feature in the <!-- raw HTML omitted -->Micro.blog<!-- raw HTML omitted --> beta.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Fog over the northern Santa Rosa valley, getting on an <a href=\"https://aveloair.com\">Avelo</a> flight to Burbank a couple of weeks ago.\n\n(Also testing the new upload feature in the <a href=\"https://micro.blog\">Micro.blog</a> beta.\n\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/47bf62a837.jpg\" alt=\"\" width=\"600\" height=\"450\">\n",
+				"content_html": "<p>Fog over the northern Santa Rosa valley, getting on an <!-- raw HTML omitted -->Avelo<!-- raw HTML omitted --> flight to Burbank a couple of weeks ago.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Fog over the northern Santa Rosa valley, getting on an <a href=\"https://aveloair.com\">Avelo</a> flight to Burbank a couple of weeks ago.\n\n<img src=\"uploads/2023/47bf62a837.jpg\" alt=\"\" width=\"600\" height=\"450\">\n",
 				"date_published": "2023-03-28T13:27:15-07:00",
 				"url": "https://winnick.is/2023/03/28/fog-over-the.html",
 				"tags": ["Photos","Status"]
