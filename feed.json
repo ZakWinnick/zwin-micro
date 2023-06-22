@@ -7,12 +7,21 @@
 	"items": [
 		
 			{
+				"id": "http://zwin.micro.blog/2023/06/21/when-listening-to.html",
+				
+				"content_html": "<p>When listening to music, or watching a video in landscape, did sound always come out of the iPhone speaker at the top of the phone? Is this an iOS 17 thing?</p>\n<p>I never noticed it before…</p>\n",
+				"content_text": "When listening to music, or watching a video in landscape, did sound always come out of the iPhone speaker at the top of the phone? Is this an iOS 17 thing?\n\nI never noticed it before…\n",
+				"date_published": "2023-06-21T20:14:18-07:00",
+				"url": "https://winnick.is/2023/06/21/when-listening-to.html"
+			},
+			{
 				"id": "http://zwin.micro.blog/2023/06/15/this-video-by.html",
 				
-				"content_html": "<p><a href=\"https://youtube.com/watch?v=kvN5_GXlg2Y&amp;feature=share8\">This</a> video by <a href=\"https://mkbhd.com\">MKBHD</a> is a fascinating dive into how Apple markets its products without using “common” buzzwords.</p>\n<p>As a former Apple employee, we find it annoying as well. 😏</p>\n",
-				"content_text": "[This](https://youtube.com/watch?v=kvN5_GXlg2Y&feature=share8) video by [MKBHD](https://mkbhd.com) is a fascinating dive into how Apple markets its products without using “common” buzzwords. \n\nAs a former Apple employee, we find it annoying as well. 😏\n",
+				"content_html": "<p><a href=\"https://youtube.com/watch?v=kvN5_GXlg2Y&amp;feature=share8\">This</a> video by <a href=\"https://mkbhd.com\">MKBHD</a> is a fascinating dive into how Apple markets its products without using “common” buzzwords.</p>\n<p>As a former Apple employee, I can safely say we find it annoying as well. 😏</p>\n",
+				"content_text": "[This](https://youtube.com/watch?v=kvN5_GXlg2Y&feature=share8) video by [MKBHD](https://mkbhd.com) is a fascinating dive into how Apple markets its products without using “common” buzzwords. \n\nAs a former Apple employee, I can safely say we find it annoying as well. 😏\n",
 				"date_published": "2023-06-15T20:49:59-07:00",
-				"url": "https://winnick.is/2023/06/15/this-video-by.html"
+				"url": "https://winnick.is/2023/06/15/this-video-by.html",
+				"tags": ["Posts"]
 			},
 			{
 				"id": "http://zwin.micro.blog/2023/06/10/drove-out-to.html",
