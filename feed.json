@@ -7,15 +7,6 @@
 	"items": [
 		
 			{
-				"id": "http://zwin.micro.blog/2023/08/04/this-is-a.html",
-				
-				"content_html": "<p>This is a test.</p>\n",
-				"content_text": "This is a test. \n",
-				"date_published": "2023-08-04T23:42:22-07:00",
-				"url": "https://winnick.is/2023/08/04/this-is-a.html",
-				"tags": ["Posts"]
-			},
-			{
 				"id": "http://zwin.micro.blog/2023/08/03/when-one-of.html",
 				
 				"content_html": "<p>When one of your vendors does a virtual wine tasting/sales call, and sends you four $100+ bottles of wine…</p>\n<p>Thanks to the teams at <a href=\"https://www.bridgeitconsulting.com/\">Bridge IT Consulting</a> and <a href=\"https://www.aowinery.com/\">Alpha Omega Winery</a> for the great experience!</p>\n<!-- raw HTML omitted -->\n",
