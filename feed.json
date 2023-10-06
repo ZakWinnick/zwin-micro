@@ -2,18 +2,26 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Zak Winnick",
 	"icon": "https://micro.blog/zwin/avatar.jpg",
-	"home_page_url": "https://winnick.is/",
-	"feed_url": "https://winnick.is/feed.json",
+	"home_page_url": "https://zwin.micro.blog/",
+	"feed_url": "https://zwin.micro.blog/feed.json",
 	"items": [
 		
 			{
 				"id": "http://zwin.micro.blog/2023/10/01/preseason-between-the.html",
 				
-				"content_html": "<p>Preseason between the San Jose Sharks and LA Kings (well, the Ontario Reign, the Kings AHL team, playing as the Kings for the preseason).</p>\n<p>It was weird seeing Kings play in a different arena than Staples Center (I refuse to call it by its new name).</p>\n<p>Kings beat the Sharks 2-1 in a great OT period.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Preseason between the San Jose Sharks and LA Kings (well, the Ontario Reign, the Kings AHL team, playing as the Kings for the preseason). \n\nIt was weird seeing Kings play in a different arena than Staples Center (I refuse to call it by its new name). \n\nKings beat the Sharks 2-1 in a great OT period. \n\n<img src=\"uploads/2023/b0b4eb4751.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-10-01T00:38:14-07:00",
-				"url": "https://winnick.is/2023/10/01/preseason-between-the.html",
+				"content_html": "<p>Preseason between the San Jose Sharks and LA Kings (well, the Ontario Reign, the Kings AHL team, playing as the Kings for the preseason).</p>\n<p>It was weird seeing hockey in a different arena than Staples Center (I refuse to call it by its new name).</p>\n<p>Kings beat the Sharks 2-1 in a great OT period.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Preseason between the San Jose Sharks and LA Kings (well, the Ontario Reign, the Kings AHL team, playing as the Kings for the preseason). \n\nIt was weird seeing hockey in a different arena than Staples Center (I refuse to call it by its new name). \n\nKings beat the Sharks 2-1 in a great OT period. \n\n<img src=\"uploads/2023/b0b4eb4751.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-10-01T00:42:45-07:00",
+				"url": "https://zwin.micro.blog/2023/10/01/preseason-between-the.html",
 				"tags": ["Photos"]
+			},
+			{
+				"id": "http://zwin.micro.blog/2023/10/01/checking-out-the.html",
+				
+				"content_html": "<p>Checking out the hype…</p>\n<p>Currently reading: <a href=\"https://micro.blog/books/9781982181284\">Elon Musk</a> by Walter Isaacson 📚</p>\n",
+				"content_text": "Checking out the hype…\n\nCurrently reading: [Elon Musk](https://micro.blog/books/9781982181284) by Walter Isaacson 📚\n",
+				"date_published": "2023-10-01T00:39:57-07:00",
+				"url": "https://zwin.micro.blog/2023/10/01/checking-out-the.html"
 			},
 			{
 				"id": "http://zwin.micro.blog/2023/09/15/iphone-to-the.html",
@@ -21,7 +29,7 @@
 				"content_html": "<p>Woke up at 450a to order the new iPhone (upgrading from the 14 Pro Max, getting the 15 Pro Max).</p>\n<p>Ordered through Verizon (my carrier) because they were offering some really great incentives (including the Watch Ultra 2, which I don&rsquo;t need, but got anyway).</p>\n<p>3.5 hours later&hellip;</p>\n<p>After some ridiculous issues with Verizon (balance due on an account I had with them years ago), and my bank being stupid (but safe, thankfully), everything was ordered.</p>\n<p>This was the first time in several years that I had any issues with pre-ordering. I forgot how horrible the experience was if one little thing goes wrong&hellip;</p>\n",
 				"content_text": "Woke up at 450a to order the new iPhone (upgrading from the 14 Pro Max, getting the 15 Pro Max).\r\n\r\nOrdered through Verizon (my carrier) because they were offering some really great incentives (including the Watch Ultra 2, which I don't need, but got anyway). \r\n\r\n3.5 hours later...\r\n\r\nAfter some ridiculous issues with Verizon (balance due on an account I had with them years ago), and my bank being stupid (but safe, thankfully), everything was ordered. \r\n\r\nThis was the first time in several years that I had any issues with pre-ordering. I forgot how horrible the experience was if one little thing goes wrong...\n",
 				"date_published": "2023-09-15T09:05:41-07:00",
-				"url": "https://winnick.is/2023/09/15/iphone-to-the.html",
+				"url": "https://zwin.micro.blog/2023/09/15/iphone-to-the.html",
 				"tags": ["Posts"]
 			},
 			{
@@ -30,7 +38,7 @@
 				"content_html": "<p>RIP Tony Bennet</p>\n<p>I was only 2 when this concert happened, but it was the main reason I got into singer-led jazz.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "RIP Tony Bennet\n\nI was only 2 when this concert happened, but it was the main reason I got into singer-led jazz. \n\n<img src=\"uploads/2023/3e663a8963.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-07-21T10:33:29-07:00",
-				"url": "https://winnick.is/2023/07/21/rip-tony-bennet.html",
+				"url": "https://zwin.micro.blog/2023/07/21/rip-tony-bennet.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -39,7 +47,7 @@
 				"content_html": "<p><a href=\"https://landandwater.coffee\">Land and Water Coffee</a> repping alt.drinks in 2023.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "[Land and Water Coffee](https://landandwater.coffee) repping alt.drinks in 2023.\n\n\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"389\" alt=\"\">\n",
 				"date_published": "2023-07-01T14:16:33-07:00",
-				"url": "https://winnick.is/2023/07/01/land-and-water.html",
+				"url": "https://zwin.micro.blog/2023/07/01/land-and-water.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -48,7 +56,7 @@
 				"content_html": "<p><a href=\"https://youtube.com/watch?v=kvN5_GXlg2Y&amp;feature=share8\">This</a> video by <a href=\"https://mkbhd.com\">MKBHD</a> is a fascinating dive into how Apple markets its products without using “common” buzzwords.</p>\n<p>As a former Apple employee, I can safely say we find it annoying as well. 😏</p>\n",
 				"content_text": "[This](https://youtube.com/watch?v=kvN5_GXlg2Y&feature=share8) video by [MKBHD](https://mkbhd.com) is a fascinating dive into how Apple markets its products without using “common” buzzwords. \n\nAs a former Apple employee, I can safely say we find it annoying as well. 😏\n",
 				"date_published": "2023-06-15T20:49:59-07:00",
-				"url": "https://winnick.is/2023/06/15/this-video-by.html",
+				"url": "https://zwin.micro.blog/2023/06/15/this-video-by.html",
 				"tags": ["Posts"]
 			},
 			{
@@ -57,7 +65,7 @@
 				"content_html": "<p>Drove out to <a href=\"https://www.francisfordcoppolawinery.com/\">Francis Ford Coppola Winery</a> today. I was really excited, but came out disappointed. I was really expecting more from the &ldquo;museum&rdquo;.</p>\n<p>However, it did allow for a stop in Downtown Healdsburg, where one of my favorite butcher shops in all of CA resides, <a href=\"https://journeymanmeat.com/\">Journeyman Meat Co.</a>.</p>\n<p>Plus, they have these awesome paintings in the bathroom&hellip;</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Drove out to [Francis Ford Coppola Winery](https://www.francisfordcoppolawinery.com/) today. I was really excited, but came out disappointed. I was really expecting more from the \"museum\". \n\nHowever, it did allow for a stop in Downtown Healdsburg, where one of my favorite butcher shops in all of CA resides, [Journeyman Meat Co.](https://journeymanmeat.com/).\n\nPlus, they have these awesome paintings in the bathroom...\n\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/e253820256.jpeg\" width=\"600\" height=\"423\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/110678/2023/6b87ae3d58.jpeg\" width=\"600\" height=\"432\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/110678/2023/f12499369c.jpeg\" width=\"600\" height=\"481\" alt=\"\">\n",
 				"date_published": "2023-06-10T18:17:35-07:00",
-				"url": "https://winnick.is/2023/06/10/drove-out-to.html",
+				"url": "https://zwin.micro.blog/2023/06/10/drove-out-to.html",
 				"tags": ["Posts","Photos"]
 			},
 			{
@@ -66,7 +74,7 @@
 				"content_html": "<p>Here are some of my thoughts on the new <a href=\"https://www.apple.com/apple-vision-pro/\">Apple Vision Pro</a>&hellip;</p>\n<ul>\n<li>$3499. Yikes. However, I think I can get over that with the rest of my points&hellip;</li>\n<li>This is an amazing piece of technology. What they packed in there is just insane.</li>\n<li>It essentially eliminated the need for pretty much every tech-driven device in your house.</li>\n<li>You no longer need a TV, sound system, or a computer. Obviously, I am writing this <em>right after</em> the Keynote, so I don&rsquo;t know what connectivity looks like, so there could be more on this list.</li>\n<li>Looking at it from an enterprise perspective, the $3499 price tag is roughly in the mid-point of what companies spend on new hire equipment and setup. Just give them one of these, and they&rsquo;re set (even for remote work).</li>\n<li>All the tech that Apple has been working on for, at least, the past 5-7 years was to get to this product. It&rsquo;s quite remarkable.</li>\n</ul>\n<p>That&rsquo;s all for now. I&rsquo;m sure I&rsquo;ll have more thoughts as I watch videos from the demo area, and subsequent follow-up videos from my favorite tech peeps.</p>\n",
 				"content_text": "Here are some of my thoughts on the new [Apple Vision Pro](https://www.apple.com/apple-vision-pro/)...\r\n\r\n+ $3499. Yikes. However, I think I can get over that with the rest of my points...\r\n+ This is an amazing piece of technology. What they packed in there is just insane.\r\n+ It essentially eliminated the need for pretty much every tech-driven device in your house.\r\n+ You no longer need a TV, sound system, or a computer. Obviously, I am writing this *right after* the Keynote, so I don't know what connectivity looks like, so there could be more on this list. \r\n+ Looking at it from an enterprise perspective, the $3499 price tag is roughly in the mid-point of what companies spend on new hire equipment and setup. Just give them one of these, and they're set (even for remote work). \r\n+ All the tech that Apple has been working on for, at least, the past 5-7 years was to get to this product. It's quite remarkable.\r\n\r\nThat's all for now. I'm sure I'll have more thoughts as I watch videos from the demo area, and subsequent follow-up videos from my favorite tech peeps. \n",
 				"date_published": "2023-06-05T12:21:23-07:00",
-				"url": "https://winnick.is/2023/06/05/initial-thoughts-on.html",
+				"url": "https://zwin.micro.blog/2023/06/05/initial-thoughts-on.html",
 				"tags": ["Posts"]
 			},
 			{
@@ -75,7 +83,7 @@
 				"content_html": "<p>Inspired by <a href=\"https://micro.blog/stickerspotter\">@stickerspotter</a>…</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Inspired by [@stickerspotter](https://micro.blog/stickerspotter)…\n\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/01246757ad.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-06-03T12:52:23-07:00",
-				"url": "https://winnick.is/2023/06/03/inspired-by-stickerspotter.html",
+				"url": "https://zwin.micro.blog/2023/06/03/inspired-by-stickerspotter.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -84,7 +92,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781426223303\">To Infinity and Beyond</a> by Neil DeGrasse Tyson 📚</p>\n<p>Honored to have received an advanced copy of this. Can’t wait to dig in!</p>\n",
 				"content_text": "Currently reading: [To Infinity and Beyond](https://micro.blog/books/9781426223303) by Neil DeGrasse Tyson 📚\n\nHonored to have received an advanced copy of this. Can’t wait to dig in!\n",
 				"date_published": "2023-05-31T12:29:47-07:00",
-				"url": "https://winnick.is/2023/05/31/currently-reading-to.html",
+				"url": "https://zwin.micro.blog/2023/05/31/currently-reading-to.html",
 				"tags": ["Posts"]
 			},
 			{
@@ -93,7 +101,7 @@
 				"content_html": "<p>Beautiful day for Mets baseball. I’ve now seen them play in 8 parks around the country. Of course, they beat the A’s 3-2.</p>\n<p>It was a good day…</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Beautiful day for Mets baseball. I’ve now seen them play in 8 parks around the country. Of course, they beat the A’s 3-2.\n\nIt was a good day…\n\n<img class=\"alignnone wp-image-88 size-full\" src=\"https://cdn.uploads.micro.blog/110678/2023/e15b44b357.jpg\" alt=\"\" width=\"1800\" height=\"1350\">\n",
 				"date_published": "2023-04-15T20:54:29-07:00",
-				"url": "https://winnick.is/2023/04/15/beautiful-day-for.html",
+				"url": "https://zwin.micro.blog/2023/04/15/beautiful-day-for.html",
 				"tags": ["Posts","Photos"]
 			},
 			{
@@ -102,16 +110,16 @@
 				"content_html": "<p>Way more happy than I should be to have my <!-- raw HTML omitted -->Breville Oracle Touch<!-- raw HTML omitted --> back from repair.</p>\n<p>I almost forgot what a good cup of home brewed coffee tasted like.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Way more happy than I should be to have my <a href=\"https://www.breville.com/us/en/products/espresso/bes990.html\">Breville Oracle Touch</a> back from repair.\n\nI almost forgot what a good cup of home brewed coffee tasted like.\n\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/9209d92444.jpg\" alt=\"\" width=\"600\" height=\"450\">\n",
 				"date_published": "2023-04-08T11:06:14-07:00",
-				"url": "https://winnick.is/2023/04/08/way-more-happy.html",
+				"url": "https://zwin.micro.blog/2023/04/08/way-more-happy.html",
 				"tags": ["Posts","Photos"]
 			},
 			{
 				"id": "http://zwin.micro.blog/2023/03/28/fog-over-the.html",
 				
 				"content_html": "<p>Fog over the northern Sonoma valley, getting on an <!-- raw HTML omitted -->Avelo<!-- raw HTML omitted --> flight to Burbank a couple of weeks ago.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Fog over the northern Sonoma valley, getting on an <a href=\"https://aveloair.com\">Avelo</a> flight to Burbank a couple of weeks ago.\n\n<img src=\"uploads/2023/47bf62a837.jpg\" alt=\"\" width=\"600\" height=\"450\">\n",
+				"content_text": "Fog over the northern Sonoma valley, getting on an <a href=\"https://aveloair.com\">Avelo</a> flight to Burbank a couple of weeks ago.\n\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/47bf62a837.jpg\" alt=\"\" width=\"600\" height=\"450\">\n",
 				"date_published": "2023-03-28T13:27:15-07:00",
-				"url": "https://winnick.is/2023/03/28/fog-over-the.html",
+				"url": "https://zwin.micro.blog/2023/03/28/fog-over-the.html",
 				"tags": ["Posts","Photos"]
 			},
 			{
@@ -120,7 +128,7 @@
 				"content_html": "<p>Spent the day at <!-- raw HTML omitted -->Armstrong Redwoods State Natural Reserve<!-- raw HTML omitted -->. It was incredible, and surprisingly peaceful.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Spent the day at <a href=\"https://www.parks.ca.gov/?page_id=450\">Armstrong Redwoods State Natural Reserve</a>. It was incredible, and surprisingly peaceful.\n\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/ccd3bb601a.jpg\" alt=\"\">\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/c33a303fbe.jpg\" alt=\"\">\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/0b9cffc92e.jpg\" alt=\"\">\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/68ad94d955.jpg\" alt=\"\">\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/03c076053d.jpg\" alt=\"\">\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/ac90f97d12.jpg\" alt=\"\">\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/2855a00602.jpg\" alt=\"\">\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/b8e6e87f50.jpg\" alt=\"\">\n",
 				"date_published": "2023-03-26T22:28:35-07:00",
-				"url": "https://winnick.is/2023/03/26/spent-the-day.html",
+				"url": "https://zwin.micro.blog/2023/03/26/spent-the-day.html",
 				"tags": ["Posts","Photos"]
 			},
 			{
@@ -129,7 +137,7 @@
 				"content_html": "<p>The rare moment I’m in front of a camera.</p>\n<p>Totally worth it to meet my favorite LA Kings player, Pheonix Copley (he’s the starting goalie, and yes…that’s how he spells his name).</p>\n<p>This was at the 2023 Kings Fan Fest at the Microsoft Theater (across the street from Staples Cen…I mean Crypto.com Arena).</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "The rare moment I’m in front of a camera.\n\nTotally worth it to meet my favorite LA Kings player, Pheonix Copley (he’s the starting goalie, and yes…that’s how he spells his name).\n\nThis was at the 2023 Kings Fan Fest at the Microsoft Theater (across the street from Staples Cen…I mean Crypto.com Arena).\n\n<img src=\"https://cdn.uploads.micro.blog/110678/2023/9d6f6ba1f3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-15T21:24:45-07:00",
-				"url": "https://winnick.is/2023/02/15/la-kings-fanfest.html",
+				"url": "https://zwin.micro.blog/2023/02/15/la-kings-fanfest.html",
 				"tags": ["Posts","Photos"]
 			}
 	]
