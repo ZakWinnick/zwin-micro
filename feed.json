@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://zwin.micro.blog/2023/11/15/finished-reading-fifty.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781493051038\">Fifty Shades of Crimson</a> by Pete Tomsett 📚</p>\n<p>This is the first book I’ve finished in many years. A fascinating story about one of the most prolific bands you’ve never heard of, but know their many amazing members.</p>\n",
+				"content_text": "Finished reading: [Fifty Shades of Crimson](https://micro.blog/books/9781493051038) by Pete Tomsett 📚\n\nThis is the first book I’ve finished in many years. A fascinating story about one of the most prolific bands you’ve never heard of, but know their many amazing members. \n",
+				"date_published": "2023-11-15T22:44:50-08:00",
+				"url": "https://winnick.io/2023/11/15/finished-reading-fifty.html",
+				"tags": ["Posts","Status"]
+			},
+			{
 				"id": "http://zwin.micro.blog/2023/11/08/currently-reading-fifty.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781493051038\">Fifty Shades of Crimson</a> by Pete Tomsett 📚</p>\n<p>If you’re a fan of King Crimson (or any group KC-adjacent), this is a fantastic book that walks you through the history of Crimson and Robert Fripp.</p>\n<p>I can’t stop reading it.</p>\n<p>Of course, while listening to the albums as they come up in the story…</p>\n",
