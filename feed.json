@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://zwin.micro.blog/2023/12/15/how-am-i.html",
+				
+				"content_html": "<p>How am I just now hearing about <a href=\"https://music.apple.com/us/artist/bardcore/1537773807\">Bardcore</a>?!</p>\n",
+				"content_text": "How am I just now hearing about [Bardcore](https://music.apple.com/us/artist/bardcore/1537773807)?!\n",
+				"date_published": "2023-12-15T08:15:43-08:00",
+				"url": "https://winnick.io/2023/12/15/how-am-i.html"
+			},
+			{
+				"id": "http://zwin.micro.blog/2023/12/12/that-time-that.html",
+				
+				"content_html": "<p>That time that my friend and I were in the LA Times, talking about our aviation club&hellip;</p>\n<p><a href=\"https://www.latimes.com/archives/la-xpm-1997-04-19-me-50210-story.html\">Prep School Address Helps Aviation Class - Los Angeles Times</a></p>\n",
+				"content_text": "That time that my friend and I were in the LA Times, talking about our aviation club...\r\n\r\n[Prep School Address Helps Aviation Class - Los Angeles Times](https://www.latimes.com/archives/la-xpm-1997-04-19-me-50210-story.html)\n",
+				"date_published": "2023-12-12T10:21:43-08:00",
+				"url": "https://winnick.io/2023/12/12/that-time-that.html"
+			},
+			{
+				"id": "http://zwin.micro.blog/2023/12/11/dogcow-radio-moof.html",
+				"title": "Dogcow Radio - Moof!",
+				"content_html": "<p>Offically (Re)Launching <a href=\"https://dogcow.us\">Dogcow Radio</a> today.</p>\n<p>It&rsquo;s running through <a href=\"https://azuracast.com\">Azuracast</a> on a <a href=\"https://digitalocean.com\">DigitalOcean</a> droplet with DO Spaces for the cloud storage.</p>\n<p>Anyway, it&rsquo;s nothing special, with only a small list of artists to start:</p>\n<ul>\n<li>Dave Matthews Band</li>\n<li>Dream Theater</li>\n<li>Green Day</li>\n<li>Greg Howard</li>\n<li>Haken</li>\n<li>High Castle Teleorkestra</li>\n<li>King Crimson</li>\n<li>The Pineapple Thief</li>\n<li>Porcupine Tree</li>\n<li>Primus</li>\n<li>Rush</li>\n<li>Sleepytime Gorilla Museum</li>\n<li>Snarky Puppy</li>\n<li>Tool</li>\n<li>U2</li>\n</ul>\n<p>If any of those artists do anything for you, feel free to check out U2 Tuesdays, Fripp Fridays, Sleepytime Saturdays, and Snarky Sundays, where those days (and nights) are dedicated to those artists.</p>\n<p>These all come from my personal collection, which is growing constantly, so there will always be more music added.</p>\n<p>Happy listening. Moof!</p>\n",
+				"content_text": "Offically (Re)Launching [Dogcow Radio](https://dogcow.us) today.\r\n\r\nIt's running through [Azuracast](https://azuracast.com) on a [DigitalOcean](https://digitalocean.com) droplet with DO Spaces for the cloud storage. \r\n\r\nAnyway, it's nothing special, with only a small list of artists to start:\r\n\r\n+ Dave Matthews Band\r\n+ Dream Theater\r\n+ Green Day\r\n+ Greg Howard\r\n+ Haken\r\n+ High Castle Teleorkestra\r\n+ King Crimson\r\n+ The Pineapple Thief\r\n+ Porcupine Tree\r\n+ Primus\r\n+ Rush\r\n+ Sleepytime Gorilla Museum\r\n+ Snarky Puppy\r\n+ Tool\r\n+ U2\r\n\r\nIf any of those artists do anything for you, feel free to check out U2 Tuesdays, Fripp Fridays, Sleepytime Saturdays, and Snarky Sundays, where those days (and nights) are dedicated to those artists. \r\n\r\nThese all come from my personal collection, which is growing constantly, so there will always be more music added. \r\n\r\nHappy listening. Moof!\n",
+				"date_published": "2023-12-11T12:46:27-08:00",
+				"url": "https://winnick.io/2023/12/11/dogcow-radio-moof.html",
+				"tags": ["Posts"]
+			},
+			{
 				"id": "http://zwin.micro.blog/2023/12/06/of-courses-the.html",
 				
 				"content_html": "<p>Of course the <a href=\"https://www.notateslaapp.com/software-updates/version/2023.44.25/release-notes\">Tesla Holiday Update</a> brings Apple Podcasts to the cars…right after I switch back to Overcast. 😂</p>\n",
@@ -36,7 +61,7 @@
 				"id": "http://zwin.micro.blog/2023/11/19/micro-thoughts-test.html",
 				"title": "Micro Thoughts Test",
 				"content_html": "<p>This is just a test post for my new microcast, <em>Micro Thoughts from Zak Winnick</em>.</p>\n<p>It&rsquo;s an old episode from 2019, but hey&hellip;here we are.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "This is just a test post for my new microcast, *Micro Thoughts from Zak Winnick*.\r\n\r\nIt's an old episode from 2019, but hey...here we are.\n\n<audio controls=\"controls\" src=\"https://winnick.io/uploads/2023/e6e7b4bd4e.mp3\" preload=\"metadata\"><p><a href=\"https://winnick.io/transcripts/2023/11/19/670.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_text": "This is just a test post for my new microcast, *Micro Thoughts from Zak Winnick*.\r\n\r\nIt's an old episode from 2019, but hey...here we are.\n\n<audio controls=\"controls\" src=\"https://zwin.micro.blog/uploads/2023/e6e7b4bd4e.mp3\" preload=\"metadata\"><p><a href=\"https://winnick.io/transcripts/2023/11/19/670.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2023-11-19T18:17:15-08:00",
 				"url": "https://winnick.io/2023/11/19/micro-thoughts-test.html",
 				"tags": ["Casts"]
