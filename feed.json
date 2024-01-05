@@ -2,129 +2,44 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Zak Winnick",
 	"icon": "https://micro.blog/zwin/avatar.jpg",
-	"home_page_url": "https://winnick.io/",
-	"feed_url": "https://winnick.io/feed.json",
+	"home_page_url": "https://zwin.micro.blog/",
+	"feed_url": "https://zwin.micro.blog/feed.json",
 	"items": [
 		
-			{
-				"id": "http://zwin.micro.blog/2023/12/15/how-am-i.html",
-				
-				"content_html": "<p>How am I just now hearing about <a href=\"https://music.apple.com/us/artist/bardcore/1537773807\">Bardcore</a>?!</p>\n",
-				"content_text": "How am I just now hearing about [Bardcore](https://music.apple.com/us/artist/bardcore/1537773807)?!\n",
-				"date_published": "2023-12-15T08:15:43-08:00",
-				"url": "https://winnick.io/2023/12/15/how-am-i.html"
-			},
-			{
-				"id": "http://zwin.micro.blog/2023/12/12/that-time-that.html",
-				
-				"content_html": "<p>That time that my friend and I were in the LA Times, talking about our aviation club&hellip;</p>\n<p><a href=\"https://www.latimes.com/archives/la-xpm-1997-04-19-me-50210-story.html\">Prep School Address Helps Aviation Class - Los Angeles Times</a></p>\n",
-				"content_text": "That time that my friend and I were in the LA Times, talking about our aviation club...\r\n\r\n[Prep School Address Helps Aviation Class - Los Angeles Times](https://www.latimes.com/archives/la-xpm-1997-04-19-me-50210-story.html)\n",
-				"date_published": "2023-12-12T10:21:43-08:00",
-				"url": "https://winnick.io/2023/12/12/that-time-that.html"
-			},
-			{
-				"id": "http://zwin.micro.blog/2023/12/11/dogcow-radio-moof.html",
-				"title": "Dogcow Radio - Moof!",
-				"content_html": "<p>Offically (Re)Launching <a href=\"https://dogcow.us\">Dogcow Radio</a> today.</p>\n<p>It&rsquo;s running through <a href=\"https://azuracast.com\">Azuracast</a> on a <a href=\"https://digitalocean.com\">DigitalOcean</a> droplet with DO Spaces for the cloud storage.</p>\n<p>Anyway, it&rsquo;s nothing special, with only a small list of artists to start:</p>\n<ul>\n<li>Dave Matthews Band</li>\n<li>Dream Theater</li>\n<li>Green Day</li>\n<li>Greg Howard</li>\n<li>Haken</li>\n<li>High Castle Teleorkestra</li>\n<li>King Crimson</li>\n<li>The Pineapple Thief</li>\n<li>Porcupine Tree</li>\n<li>Primus</li>\n<li>Rush</li>\n<li>Sleepytime Gorilla Museum</li>\n<li>Snarky Puppy</li>\n<li>Tool</li>\n<li>U2</li>\n</ul>\n<p>If any of those artists do anything for you, feel free to check out U2 Tuesdays, Fripp Fridays, Sleepytime Saturdays, and Snarky Sundays, where those days (and nights) are dedicated to those artists.</p>\n<p>These all come from my personal collection, which is growing constantly, so there will always be more music added.</p>\n<p>Happy listening. Moof!</p>\n",
-				"content_text": "Offically (Re)Launching [Dogcow Radio](https://dogcow.us) today.\r\n\r\nIt's running through [Azuracast](https://azuracast.com) on a [DigitalOcean](https://digitalocean.com) droplet with DO Spaces for the cloud storage. \r\n\r\nAnyway, it's nothing special, with only a small list of artists to start:\r\n\r\n+ Dave Matthews Band\r\n+ Dream Theater\r\n+ Green Day\r\n+ Greg Howard\r\n+ Haken\r\n+ High Castle Teleorkestra\r\n+ King Crimson\r\n+ The Pineapple Thief\r\n+ Porcupine Tree\r\n+ Primus\r\n+ Rush\r\n+ Sleepytime Gorilla Museum\r\n+ Snarky Puppy\r\n+ Tool\r\n+ U2\r\n\r\nIf any of those artists do anything for you, feel free to check out U2 Tuesdays, Fripp Fridays, Sleepytime Saturdays, and Snarky Sundays, where those days (and nights) are dedicated to those artists. \r\n\r\nThese all come from my personal collection, which is growing constantly, so there will always be more music added. \r\n\r\nHappy listening. Moof!\n",
-				"date_published": "2023-12-11T12:46:27-08:00",
-				"url": "https://winnick.io/2023/12/11/dogcow-radio-moof.html",
-				"tags": ["Posts"]
-			},
-			{
-				"id": "http://zwin.micro.blog/2023/12/06/of-courses-the.html",
-				
-				"content_html": "<p>Of course the <a href=\"https://www.notateslaapp.com/software-updates/version/2023.44.25/release-notes\">Tesla Holiday Update</a> brings Apple Podcasts to the cars…right after I switch back to Overcast. 😂</p>\n",
-				"content_text": "Of course the [Tesla Holiday Update](https://www.notateslaapp.com/software-updates/version/2023.44.25/release-notes) brings Apple Podcasts to the cars…right after I switch back to Overcast. 😂\n",
-				"date_published": "2023-12-06T21:10:21-08:00",
-				"url": "https://winnick.io/2023/12/06/of-courses-the.html",
-				"tags": ["Status"]
-			},
-			{
-				"id": "http://zwin.micro.blog/2023/12/04/playing-around-with.html",
-				
-				"content_html": "<p>Playing around with <a href=\"https://elevenlabs.io/\">Eleven Labs</a>' speech synthesis, I made a trailer for a (not-so) new podcast, the <a href=\"https://www.stickworldpodcast.com/\">StickWorld Podcast</a>.</p>\n<p>I thought it was kind of fun&hellip;</p>\n",
-				"content_text": "Playing around with [Eleven Labs](https://elevenlabs.io/)' speech synthesis, I made a trailer for a (not-so) new podcast, the [StickWorld Podcast](https://www.stickworldpodcast.com/). \r\n\r\nI thought it was kind of fun...\n",
-				"date_published": "2023-12-04T14:04:47-08:00",
-				"url": "https://winnick.io/2023/12/04/playing-around-with.html"
-			},
-			{
-				"id": "http://zwin.micro.blog/2023/11/20/podcast-to-the.html",
-				"title": "Pod(cast) to the Future",
-				"content_html": "<p>Resurrecting some podcasts from the depths of the archive for 2024.</p>\n<ul>\n<li><em>Micro Thoughts from Zak Winnick</em> - (Semi)Daily microcast, just to use as a daily update for posterity</li>\n<li><em>ZaxTrax</em> - Long-form podcast, featuring music from my collection (maybe some originals from me as well?)</li>\n<li><em>StickWorld Podcast</em> - This one is the enigma. I&rsquo;m picking up playing the <a href=\"https://www.stick.com\">Chapman Stick</a> again, and want to jump back into the community with my award-winning podcast from&hellip;<em>checks notes</em>&hellip;2004.</li>\n<li><em>Untitled Podcast Project</em> - This one&rsquo;s a secret. I&rsquo;ve been working behind-the-scenes on something that was very prominent in my past, and will probably be released towards the end of the year for a special anniversary in my life. More TK.</li>\n</ul>\n",
-				"content_text": "Resurrecting some podcasts from the depths of the archive for 2024. \r\n\r\n- *Micro Thoughts from Zak Winnick* - (Semi)Daily microcast, just to use as a daily update for posterity\r\n- *ZaxTrax* - Long-form podcast, featuring music from my collection (maybe some originals from me as well?)\r\n- *StickWorld Podcast* - This one is the enigma. I'm picking up playing the [Chapman Stick](https://www.stick.com) again, and want to jump back into the community with my award-winning podcast from...*checks notes*...2004. \r\n- *Untitled Podcast Project* - This one's a secret. I've been working behind-the-scenes on something that was very prominent in my past, and will probably be released towards the end of the year for a special anniversary in my life. More TK.\n",
-				"date_published": "2023-11-20T18:09:29-08:00",
-				"url": "https://winnick.io/2023/11/20/podcast-to-the.html",
-				"tags": ["Posts","Status"]
-			},
-			{
-				"id": "http://zwin.micro.blog/2023/11/19/micro-thoughts-test.html",
-				"title": "Micro Thoughts Test",
-				"content_html": "<p>This is just a test post for my new microcast, <em>Micro Thoughts from Zak Winnick</em>.</p>\n<p>It&rsquo;s an old episode from 2019, but hey&hellip;here we are.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "This is just a test post for my new microcast, *Micro Thoughts from Zak Winnick*.\r\n\r\nIt's an old episode from 2019, but hey...here we are.\n\n<audio controls=\"controls\" src=\"https://zwin.micro.blog/uploads/2023/e6e7b4bd4e.mp3\" preload=\"metadata\"><p><a href=\"https://winnick.io/transcripts/2023/11/19/670.html\" class=\"transcript_link\">Transcript</a>\n",
-				"date_published": "2023-11-19T18:17:15-08:00",
-				"url": "https://winnick.io/2023/11/19/micro-thoughts-test.html",
-				"tags": ["Casts"]
-			},
-			{
-				"id": "http://zwin.micro.blog/2023/11/15/finished-reading-fifty.html",
-				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781493051038\">Fifty Shades of Crimson</a> by Pete Tomsett 📚</p>\n<p>This is the first book I’ve finished in many years. A fascinating story about one of the most prolific bands you’ve never heard of, but know their many amazing members.</p>\n",
-				"content_text": "Finished reading: [Fifty Shades of Crimson](https://micro.blog/books/9781493051038) by Pete Tomsett 📚\n\nThis is the first book I’ve finished in many years. A fascinating story about one of the most prolific bands you’ve never heard of, but know their many amazing members. \n",
-				"date_published": "2023-11-15T22:44:50-08:00",
-				"url": "https://winnick.io/2023/11/15/finished-reading-fifty.html",
-				"tags": ["Posts","Status"]
-			},
-			{
-				"id": "http://zwin.micro.blog/2023/11/08/currently-reading-fifty.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781493051038\">Fifty Shades of Crimson</a> by Pete Tomsett 📚</p>\n<p>If you’re a fan of King Crimson (or any group KC-adjacent), this is a fantastic book that walks you through the history of Crimson and Robert Fripp.</p>\n<p>I can’t stop reading it.</p>\n<p>Of course, while listening to the albums as they come up in the story…</p>\n",
-				"content_text": "Currently reading: [Fifty Shades of Crimson](https://micro.blog/books/9781493051038) by Pete Tomsett 📚\n\nIf you’re a fan of King Crimson (or any group KC-adjacent), this is a fantastic book that walks you through the history of Crimson and Robert Fripp.\n\nI can’t stop reading it.\n\nOf course, while listening to the albums as they come up in the story…\n",
-				"date_published": "2023-11-08T22:51:03-08:00",
-				"url": "https://winnick.io/2023/11/08/currently-reading-fifty.html"
-			},
-			{
-				"id": "http://zwin.micro.blog/2023/11/02/the-new-beatles.html",
-				
-				"content_html": "<p>The new Beatles song, <em><a href=\"https://music.apple.com/us/album/now-and-then/1713197371?i=1713197541\">Now and Then</a></em> is gorgeous.</p>\n<p>It’s been a long time since a song moved me the way this did…for many reasons.</p>\n",
-				"content_text": "The new Beatles song, _[Now and Then](https://music.apple.com/us/album/now-and-then/1713197371?i=1713197541)_ is gorgeous. \n\nIt’s been a long time since a song moved me the way this did…for many reasons.\n",
-				"date_published": "2023-11-02T21:14:43-08:00",
-				"url": "https://winnick.io/2023/11/02/the-new-beatles.html"
-			},
 			{
 				"id": "http://zwin.micro.blog/2023/11/01/just-because-i.html",
 				
 				"content_html": "<p>Just because I could, I set up a TOR Relay, and an Onion site for myself.</p>\n<p>I spun up a VM on DigitalOcean, and was able to get it all to work within 15 minutes (with some minor Linux work).</p>\n<p>Check out my basic Onion site @ <a href=\"http://zak2eej7zahsockgaxvifvphknugsxapzjhk3is342mvkldwkhochyad.onion/\">zak2eej7zahsockgaxvifvphknugsxapzjhk3is342mvkldwkhochyad.onion</a></p>\n",
 				"content_text": "Just because I could, I set up a TOR Relay, and an Onion site for myself.\n\nI spun up a VM on DigitalOcean, and was able to get it all to work within 15 minutes (with some minor Linux work). \n\nCheck out my basic Onion site @ [zak2eej7zahsockgaxvifvphknugsxapzjhk3is342mvkldwkhochyad.onion](http://zak2eej7zahsockgaxvifvphknugsxapzjhk3is342mvkldwkhochyad.onion/)\n",
 				"date_published": "2023-11-01T13:51:08-08:00",
-				"url": "https://winnick.io/2023/11/01/just-because-i.html",
+				"url": "https://zwin.micro.blog/2023/11/01/just-because-i.html",
 				"tags": ["Posts","Status"]
 			},
 			{
 				"id": "http://zwin.micro.blog/2023/10/31/picked-up-a.html",
 				
 				"content_html": "<p>Picked up a pair of AirPods Pro with the USB-C case.</p>\n<p>Gotta say…I love Adaptive Audio.</p>\n<p>It took me about an hour to get used to it, and now I don’t know how I can use any other headphones…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Picked up a pair of AirPods Pro with the USB-C case. \n\nGotta say…I love Adaptive Audio. \n\nIt took me about an hour to get used to it, and now I don’t know how I can use any other headphones…\n\n\n<img src=\"uploads/2023/c5b5f26df6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Picked up a pair of AirPods Pro with the USB-C case. \n\nGotta say…I love Adaptive Audio. \n\nIt took me about an hour to get used to it, and now I don’t know how I can use any other headphones…\n\n\n<img src=\"uploads/2023/c5b5f26df6.jpg\" width=\"600\" height=\"450\" alt=\"\">\nth=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-10-31T17:34:59-08:00",
-				"url": "https://winnick.io/2023/10/31/picked-up-a.html",
+				"url": "https://zwin.micro.blog/2023/10/31/picked-up-a.html",
 				"tags": ["Posts","Photos"]
 			},
 			{
 				"id": "http://zwin.micro.blog/2023/10/26/morning-reflections-over.html",
 				
 				"content_html": "<p>Morning reflections over a nice, hot cup of <a href=\"https://www.yorkshiretea.com\">Yorkshire Tea</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Morning reflections over a nice, hot cup of [Yorkshire Tea](https://www.yorkshiretea.com).\n\n<img src=\"uploads/2023/ccd7d88754.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Morning reflections over a nice, hot cup of [Yorkshire Tea](https://www.yorkshiretea.com).\n\n<img src=\"uploads/2023/ccd7d88754.jpg\" width=\"600\" height=\"600\" alt=\"\">\nth=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-10-26T18:34:49-08:00",
-				"url": "https://winnick.io/2023/10/26/morning-reflections-over.html",
+				"url": "https://zwin.micro.blog/2023/10/26/morning-reflections-over.html",
 				"tags": ["Photos"]
 			},
 			{
 				"id": "http://zwin.micro.blog/2023/10/01/preseason-between-the.html",
 				
 				"content_html": "<p>Preseason between the San Jose Sharks and LA Kings (well, the Ontario Reign, the Kings AHL team, playing as the Kings for the preseason).</p>\n<p>It was weird seeing hockey in a different arena than Staples Center (I refuse to call it by its new name).</p>\n<p>Kings beat the Sharks 2-1 in a great OT period.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Preseason between the San Jose Sharks and LA Kings (well, the Ontario Reign, the Kings AHL team, playing as the Kings for the preseason).\n\nIt was weird seeing hockey in a different arena than Staples Center (I refuse to call it by its new name).\n\nKings beat the Sharks 2-1 in a great OT period.\n\n<img class=\"alignnone wp-image-167 size-large\" src=\"https://zwin.micro.blog/uploads/2023/2bdc136be7.jpg\" alt=\"\" width=\"750\" height=\"563\" />\n",
+				"content_text": "Preseason between the San Jose Sharks and LA Kings (well, the Ontario Reign, the Kings AHL team, playing as the Kings for the preseason).\n\nIt was weird seeing hockey in a different arena than Staples Center (I refuse to call it by its new name).\n\nKings beat the Sharks 2-1 in a great OT period.\n\n<img class=\"alignnone wp-image-167 size-large\" src=\"https://cdn.uploads.micro.blog/110678/2023/2bdc136be7.jpg\" alt=\"\" width=\"750\" height=\"563\" />\n",
 				"date_published": "2023-09-30T23:42:45-08:00",
-				"url": "https://winnick.io/2023/10/01/preseason-between-the.html",
+				"url": "https://zwin.micro.blog/2023/10/01/preseason-between-the.html",
 				"tags": ["Photos","Status"]
 			},
 			{
@@ -133,25 +48,25 @@
 				"content_html": "<p>Woke up at 450a to order the new iPhone (upgrading from the 14 Pro Max, getting the 15 Pro Max).</p>\n<p>Ordered through Verizon (my carrier) because they were offering some really great incentives (including the Watch Ultra 2, which I don&rsquo;t need, but got anyway).</p>\n<p>3.5 hours later&hellip;</p>\n<p>After some ridiculous issues with Verizon (balance due on an account I had with them years ago), and my bank being stupid (but safe, thankfully), everything was ordered.</p>\n<p>This was the first time in several years that I had any issues with pre-ordering. I forgot how horrible the experience was if one little thing goes wrong&hellip;</p>\n",
 				"content_text": "Woke up at 450a to order the new iPhone (upgrading from the 14 Pro Max, getting the 15 Pro Max).\n\nOrdered through Verizon (my carrier) because they were offering some really great incentives (including the Watch Ultra 2, which I don't need, but got anyway).\n\n3.5 hours later...\n\nAfter some ridiculous issues with Verizon (balance due on an account I had with them years ago), and my bank being stupid (but safe, thankfully), everything was ordered.\n\nThis was the first time in several years that I had any issues with pre-ordering. I forgot how horrible the experience was if one little thing goes wrong...\n",
 				"date_published": "2023-09-15T08:05:41-08:00",
-				"url": "https://winnick.io/2023/09/15/iphone-to-the.html",
+				"url": "https://zwin.micro.blog/2023/09/15/iphone-to-the.html",
 				"tags": ["Posts"]
 			},
 			{
 				"id": "http://zwin.micro.blog/2023/07/21/rip-tony-bennet.html",
 				
-				"content_html": "<p>RIP Tony Bennet</p>\n<p>I was only 2 when this concert happened, but it was the main reason I got into singer-led jazz.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "RIP Tony Bennet\n\nI was only 2 when this concert happened, but it was the main reason I got into singer-led jazz.\n\n<img class=\"alignnone wp-image-164 size-large\" src=\"https://zwin.micro.blog/uploads/2023/16b05d8d92.jpg\" alt=\"\" width=\"750\" height=\"1000\" />\n",
+				"content_html": "<p>RIP Tony Bennett.</p>\n<p>I was only 2 when this concert happened, but it was the reason I got into singer-led jazz.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "RIP Tony Bennett.\n\nI was only 2 when this concert happened, but it was the reason I got into singer-led jazz.\n\n<img class=\"alignnone wp-image-164 size-large\" src=\"https://zwin.micro.blog/uploads/2023/16b05d8d92.jpg\" alt=\"\" width=\"750\" height=\"1000\" />\n0\" />\n",
 				"date_published": "2023-07-21T09:33:29-08:00",
-				"url": "https://winnick.io/2023/07/21/rip-tony-bennet.html",
+				"url": "https://zwin.micro.blog/2023/07/21/rip-tony-bennet.html",
 				"tags": ["Photos","Status"]
 			},
 			{
 				"id": "http://zwin.micro.blog/2023/07/01/land-and-water.html",
 				
 				"content_html": "<p><!-- raw HTML omitted -->Land and Water Coffee<!-- raw HTML omitted --> repping alt.drinks in 2023.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "<a href=\"https://landandwater.coffee\" target=\"_blank\" rel=\"noopener\">Land and Water Coffee</a> repping alt.drinks in 2023.\n\n<img class=\"alignnone size-large wp-image-163\" src=\"https://zwin.micro.blog/uploads/2023/a6081f23bf.jpg\" alt=\"\" width=\"750\" height=\"487\" />\n",
+				"content_text": "<a href=\"https://landandwater.coffee\" target=\"_blank\" rel=\"noopener\">Land and Water Coffee</a> repping alt.drinks in 2023.\n\n<img class=\"alignnone size-large wp-image-163\" src=\"https://zwin.micro.blog/uploads/2023/a6081f23bf.jpg\" alt=\"\" width=\"750\" height=\"487\" />\n7\" />\n",
 				"date_published": "2023-07-01T13:16:33-08:00",
-				"url": "https://winnick.io/2023/07/01/land-and-water.html",
+				"url": "https://zwin.micro.blog/2023/07/01/land-and-water.html",
 				"tags": ["Photos","Status"]
 			},
 			{
@@ -160,16 +75,16 @@
 				"content_html": "<p><!-- raw HTML omitted -->This <!-- raw HTML omitted -->video by <!-- raw HTML omitted -->MKBHD<!-- raw HTML omitted --> is a fascinating dive into how Apple markets its products without using “common” buzzwords.</p>\n<p>As a former Apple employee, I can safely say we find it annoying as well. 😏</p>\n",
 				"content_text": "<a href=\"https://youtube.com/watch?v=kvN5_GXlg2Y&amp;feature=share8\" target=\"_blank\" rel=\"noopener\">This </a>video by <a href=\"https://mkbhd.com\" target=\"_blank\" rel=\"noopener\">MKBHD</a> is a fascinating dive into how Apple markets its products without using “common” buzzwords.\n\nAs a former Apple employee, I can safely say we find it annoying as well. 😏\n",
 				"date_published": "2023-06-15T19:49:59-08:00",
-				"url": "https://winnick.io/2023/06/15/this-video-by.html",
+				"url": "https://zwin.micro.blog/2023/06/15/this-video-by.html",
 				"tags": ["Posts","Status"]
 			},
 			{
 				"id": "http://zwin.micro.blog/2023/06/10/drove-out-to.html",
 				
-				"content_html": "<p>Drove out to <!-- raw HTML omitted -->Francis Ford Coppola Winery<!-- raw HTML omitted --> today. I was really excited, but came out disappointed. I was really expecting more from the &ldquo;museum&rdquo;.</p>\n<p>However, it did allow for a stop in Downtown Healdsburg, where one of my favorite butcher shops in all of CA resides, <!-- raw HTML omitted -->Journeyman Meat Co.<!-- raw HTML omitted --></p>\n<p>Plus, they have these awesome paintings in the bathroom&hellip;</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Drove out to <a href=\"https://www.francisfordcoppolawinery.com/\" target=\"_blank\" rel=\"noopener\">Francis Ford Coppola Winery</a> today. I was really excited, but came out disappointed. I was really expecting more from the \"museum\".\n\nHowever, it did allow for a stop in Downtown Healdsburg, where one of my favorite butcher shops in all of CA resides, <a href=\"https://journeymanmeat.com/\" target=\"_blank\" rel=\"noopener\">Journeyman Meat Co.</a>\n\nPlus, they have these awesome paintings in the bathroom...\n\n<img class=\"alignnone size-large wp-image-161\" src=\"https://zwin.micro.blog/uploads/2023/bacb36e472.jpg\" alt=\"\" width=\"750\" height=\"603\" /><img class=\"alignnone size-large wp-image-160\" src=\"https://zwin.micro.blog/uploads/2023/e62256d5fd.jpg\" alt=\"\" width=\"750\" height=\"541\" /><img class=\"alignnone size-large wp-image-159\" src=\"https://zwin.micro.blog/uploads/2023/b06683614c.jpg\" alt=\"\" width=\"750\" height=\"530\" />\n",
+				"content_html": "<p>Drove out to <!-- raw HTML omitted -->Francis Ford Coppola Winery<!-- raw HTML omitted --> today. I was really excited, but came out disappointed. I was really expecting more from the &ldquo;museum&rdquo;.</p>\n<p>However, it did allow for a stop in Downtown Healdsburg, where one of my favorite butcher shops in all of CA resides, <!-- raw HTML omitted -->Journeyman Meat Co.<!-- raw HTML omitted --></p>\n<p>Plus, they have these awesome paintings in the bathroom&hellip;</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->\n&quot; height=&ldquo;530&rdquo; /&gt;</p>\n",
+				"content_text": "Drove out to <a href=\"https://www.francisfordcoppolawinery.com/\" target=\"_blank\" rel=\"noopener\">Francis Ford Coppola Winery</a> today. I was really excited, but came out disappointed. I was really expecting more from the \"museum\".\n\nHowever, it did allow for a stop in Downtown Healdsburg, where one of my favorite butcher shops in all of CA resides, <a href=\"https://journeymanmeat.com/\" target=\"_blank\" rel=\"noopener\">Journeyman Meat Co.</a>\n\nPlus, they have these awesome paintings in the bathroom...\n\n<img class=\"alignnone size-large wp-image-161\" src=\"https://zwin.micro.blog/uploads/2023/bacb36e472.jpg\" alt=\"\" width=\"750\" height=\"603\" /><img class=\"alignnone size-large wp-image-160\" src=\"https://zwin.micro.blog/uploads/2023/e62256d5fd.jpg\" alt=\"\" width=\"750\" height=\"541\" /><img class=\"alignnone size-large wp-image-159\" src=\"https://zwin.micro.blog/uploads/2023/b06683614c.jpg\" alt=\"\" width=\"750\" height=\"530\" />\n\" height=\"530\" />\n",
 				"date_published": "2023-06-10T17:17:35-08:00",
-				"url": "https://winnick.io/2023/06/10/drove-out-to.html",
+				"url": "https://zwin.micro.blog/2023/06/10/drove-out-to.html",
 				"tags": ["Posts","Photos","Status"]
 			},
 			{
@@ -178,52 +93,52 @@
 				"content_html": "<p>Here are some of my thoughts on the new <!-- raw HTML omitted -->Apple Vision Pro<!-- raw HTML omitted -->&hellip;</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Here are some of my thoughts on the new <a href=\"https://www.apple.com/apple-vision-pro/\" target=\"_blank\" rel=\"noopener\">Apple Vision Pro</a>...\n<ul>\n \t<li>$3499. Yikes. However, I think I can get over that with the rest of my points...</li>\n \t<li>This is an amazing piece of technology. What they packed in there is just insane.</li>\n \t<li>It essentially eliminated the need for pretty much every tech-driven device in your house.</li>\n \t<li>You no longer need a TV, sound system, or a computer.</li>\n \t<li>Obviously, I am writing this *right after* the Keynote, so I don't know what connectivity looks like, so there could be more on this list.</li>\n \t<li>Looking at it from an enterprise perspective, the $3499 price tag is roughly in the mid-point of what companies spend on new hire equipment and setup. Just give them one of these, and they're set (even for remote work).</li>\n \t<li>All the tech that Apple has been working on for, at least, the past 5-7 years was to get to this product. It's quite remarkable.</li>\n</ul>\nThat's all for now. I'm sure I'll have more thoughts as I watch videos from the demo area, and subsequent follow-up videos from my favorite tech peeps.\n",
 				"date_published": "2023-06-05T11:21:23-08:00",
-				"url": "https://winnick.io/2023/06/05/initial-thoughts-on.html",
+				"url": "https://zwin.micro.blog/2023/06/05/initial-thoughts-on.html",
 				"tags": ["Posts"]
 			},
 			{
 				"id": "http://zwin.micro.blog/2023/04/15/beautiful-day-for.html",
 				
 				"content_html": "<p>Beautiful day for Mets baseball. I’ve now seen them play in 8 parks around the country. Of course, they beat the A’s 3-2.</p>\n<p>It was a good day…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Beautiful day for Mets baseball. I’ve now seen them play in 8 parks around the country. Of course, they beat the A’s 3-2.\n\nIt was a good day…\n\n<img class=\"alignnone size-large wp-image-157\" src=\"https://zwin.micro.blog/uploads/2023/2e423f6821.jpg\" alt=\"\" width=\"750\" height=\"563\" />\n",
+				"content_text": "Beautiful day for Mets baseball. I’ve now seen them play in 8 parks around the country. Of course, they beat the A’s 3-2.\n\nIt was a good day…\n\n<img class=\"alignnone size-large wp-image-157\" src=\"https://cdn.uploads.micro.blog/110678/2023/2e423f6821.jpg\" alt=\"\" width=\"750\" height=\"563\" />\n",
 				"date_published": "2023-04-15T19:54:29-08:00",
-				"url": "https://winnick.io/2023/04/15/beautiful-day-for.html",
+				"url": "https://zwin.micro.blog/2023/04/15/beautiful-day-for.html",
 				"tags": ["Posts","Photos","Status"]
 			},
 			{
 				"id": "http://zwin.micro.blog/2023/04/08/way-more-happy.html",
 				
 				"content_html": "<p>Way more happy than I should be to have my <!-- raw HTML omitted -->Breville Oracle Touch<!-- raw HTML omitted --> back from repair.</p>\n<p>I almost forgot what a good cup of home brewed coffee tasted like.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Way more happy than I should be to have my <a href=\"//www.breville.com/us/en/products/espresso/bes990.html\\&quot;\" target=\"_blank\" rel=\"noopener\">Breville Oracle Touch</a> back from repair.\n\nI almost forgot what a good cup of home brewed coffee tasted like.\n\n<img class=\"alignnone size-large wp-image-156\" src=\"https://zwin.micro.blog/uploads/2023/5bc54959dc.jpg\" alt=\"\" width=\"750\" height=\"563\" />\n",
+				"content_text": "Way more happy than I should be to have my <a href=\"//www.breville.com/us/en/products/espresso/bes990.html\\&quot;\" target=\"_blank\" rel=\"noopener\">Breville Oracle Touch</a> back from repair.\n\nI almost forgot what a good cup of home brewed coffee tasted like.\n\n<img class=\"alignnone size-large wp-image-156\" src=\"https://cdn.uploads.micro.blog/110678/2023/5bc54959dc.jpg\" alt=\"\" width=\"750\" height=\"563\" />\n",
 				"date_published": "2023-04-08T10:06:14-08:00",
-				"url": "https://winnick.io/2023/04/08/way-more-happy.html",
+				"url": "https://zwin.micro.blog/2023/04/08/way-more-happy.html",
 				"tags": ["Posts","Photos","Status"]
 			},
 			{
 				"id": "http://zwin.micro.blog/2023/03/28/fog-over-the.html",
 				
 				"content_html": "<p>Fog over the northern Sonoma valley, getting on an <!-- raw HTML omitted -->Avelo<!-- raw HTML omitted --> flight to Burbank a couple of weeks ago.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Fog over the northern Sonoma valley, getting on an <a href=\"\\&quot;https://aveloair.com\\&quot;\">Avelo</a> flight to Burbank a couple of weeks ago.\n\n<img class=\"alignnone size-large wp-image-155\" src=\"https://zwin.micro.blog/uploads/2023/846cc983be.jpg\" alt=\"\" width=\"750\" height=\"563\" />\n",
+				"content_text": "Fog over the northern Sonoma valley, getting on an <a href=\"\\&quot;https://aveloair.com\\&quot;\">Avelo</a> flight to Burbank a couple of weeks ago.\n\n<img class=\"alignnone size-large wp-image-155\" src=\"https://cdn.uploads.micro.blog/110678/2023/846cc983be.jpg\" alt=\"\" width=\"750\" height=\"563\" />\n",
 				"date_published": "2023-03-28T12:27:15-08:00",
-				"url": "https://winnick.io/2023/03/28/fog-over-the.html",
+				"url": "https://zwin.micro.blog/2023/03/28/fog-over-the.html",
 				"tags": ["Posts","Photos","Status"]
 			},
 			{
 				"id": "http://zwin.micro.blog/2023/03/26/spent-the-day.html",
 				
 				"content_html": "<p>Spent the day at <!-- raw HTML omitted -->Armstrong Redwoods State Natural Reserve<!-- raw HTML omitted -->. It was incredible, and surprisingly peaceful.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spent the day at <a href=\"\\&quot;https://www.parks.ca.gov/?page_id=450\\&quot;\">Armstrong Redwoods State Natural Reserve</a>. It was incredible, and surprisingly peaceful.\n\n<img class=\"alignnone size-large wp-image-154\" src=\"https://zwin.micro.blog/uploads/2023/ea2f594657.jpg\" alt=\"\" width=\"750\" height=\"1000\" />\n<img class=\"alignnone size-large wp-image-153\" src=\"https://zwin.micro.blog/uploads/2023/d57f8cc81e.jpg\" alt=\"\" width=\"750\" height=\"1000\" />\n<img class=\"alignnone size-large wp-image-151\" src=\"https://zwin.micro.blog/uploads/2023/d4bc66ffd8.jpg\" alt=\"\" width=\"750\" height=\"563\" />\n<img class=\"alignnone size-large wp-image-151\" src=\"https://zwin.micro.blog/uploads/2023/d4bc66ffd8.jpg\" alt=\"\" width=\"750\" height=\"563\" />\n<img class=\"alignnone size-large wp-image-150\" src=\"https://zwin.micro.blog/uploads/2023/f32873f3d2.jpg\" alt=\"\" width=\"580\" height=\"1024\" />\n<img class=\"alignnone size-large wp-image-149\" src=\"https://zwin.micro.blog/uploads/2023/eaa6c5545f.jpg\" alt=\"\" width=\"612\" height=\"1024\" />\n<img class=\"alignnone size-large wp-image-148\" src=\"https://zwin.micro.blog/uploads/2023/f488a25948.jpg\" alt=\"\" width=\"750\" height=\"563\" />\n<img class=\"alignnone size-large wp-image-147\" src=\"https://zwin.micro.blog/uploads/2023/c6fb07bd3a.jpg\" alt=\"\" width=\"580\" height=\"1024\" />\n",
+				"content_text": "Spent the day at <a href=\"\\&quot;https://www.parks.ca.gov/?page_id=450\\&quot;\">Armstrong Redwoods State Natural Reserve</a>. It was incredible, and surprisingly peaceful.\n\n<img class=\"alignnone size-large wp-image-154\" src=\"https://cdn.uploads.micro.blog/110678/2023/ea2f594657.jpg\" alt=\"\" width=\"750\" height=\"1000\" />\n<img class=\"alignnone size-large wp-image-153\" src=\"https://cdn.uploads.micro.blog/110678/2023/d57f8cc81e.jpg\" alt=\"\" width=\"750\" height=\"1000\" />\n<img class=\"alignnone size-large wp-image-151\" src=\"https://cdn.uploads.micro.blog/110678/2023/d4bc66ffd8.jpg\" alt=\"\" width=\"750\" height=\"563\" />\n<img class=\"alignnone size-large wp-image-151\" src=\"https://cdn.uploads.micro.blog/110678/2023/d4bc66ffd8.jpg\" alt=\"\" width=\"750\" height=\"563\" />\n<img class=\"alignnone size-large wp-image-150\" src=\"https://cdn.uploads.micro.blog/110678/2023/f32873f3d2.jpg\" alt=\"\" width=\"580\" height=\"1024\" />\n<img class=\"alignnone size-large wp-image-149\" src=\"https://cdn.uploads.micro.blog/110678/2023/eaa6c5545f.jpg\" alt=\"\" width=\"612\" height=\"1024\" />\n<img class=\"alignnone size-large wp-image-148\" src=\"https://cdn.uploads.micro.blog/110678/2023/f488a25948.jpg\" alt=\"\" width=\"750\" height=\"563\" />\n<img class=\"alignnone size-large wp-image-147\" src=\"https://cdn.uploads.micro.blog/110678/2023/c6fb07bd3a.jpg\" alt=\"\" width=\"580\" height=\"1024\" />\n",
 				"date_published": "2023-03-26T21:28:35-08:00",
-				"url": "https://winnick.io/2023/03/26/spent-the-day.html",
+				"url": "https://zwin.micro.blog/2023/03/26/spent-the-day.html",
 				"tags": ["Posts","Photos","Status"]
 			},
 			{
 				"id": "http://zwin.micro.blog/2023/02/15/la-kings-fanfest.html",
 				"title": "LA Kings Fanfest 2023",
 				"content_html": "<p>The rare moment I’m in front of a camera.</p>\n<p>Totally worth it to meet my favorite LA Kings player, Pheonix Copley (he’s the starting goalie, and yes…that’s how he spells his name).</p>\n<p>This was at the 2023 Kings Fan Fest at the Microsoft Theater (across the street from Staples Cen…I mean Crypto.com Arena).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The rare moment I’m in front of a camera.\n\nTotally worth it to meet my favorite LA Kings player, Pheonix Copley (he’s the starting goalie, and yes…that’s how he spells his name).\n\nThis was at the 2023 Kings Fan Fest at the Microsoft Theater (across the street from Staples Cen…I mean Crypto.com Arena).\n\n<img class=\"alignnone size-large wp-image-146\" src=\"https://zwin.micro.blog/uploads/2023/86eb56bb1a.jpg\" alt=\"\" width=\"750\" height=\"1000\" />\n",
+				"content_text": "The rare moment I’m in front of a camera.\n\nTotally worth it to meet my favorite LA Kings player, Pheonix Copley (he’s the starting goalie, and yes…that’s how he spells his name).\n\nThis was at the 2023 Kings Fan Fest at the Microsoft Theater (across the street from Staples Cen…I mean Crypto.com Arena).\n\n<img class=\"alignnone size-large wp-image-146\" src=\"https://cdn.uploads.micro.blog/110678/2023/86eb56bb1a.jpg\" alt=\"\" width=\"750\" height=\"1000\" />\n",
 				"date_published": "2023-02-15T20:24:45-08:00",
-				"url": "https://winnick.io/2023/02/15/la-kings-fanfest.html",
+				"url": "https://zwin.micro.blog/2023/02/15/la-kings-fanfest.html",
 				"tags": ["Posts","Photos","Status"]
 			}
 	]
