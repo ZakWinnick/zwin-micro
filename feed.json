@@ -96,15 +96,6 @@
 				"tags": ["Status"]
 			},
 			{
-				"id": "http://zwin.micro.blog/2023/11/01/just-because-i.html",
-				
-				"content_html": "<p>Just because I could, I set up a TOR Relay, and an Onion site for myself.</p>\n<p>I spun up a VM on DigitalOcean, and was able to get it all to work within 15 minutes (with some minor Linux work).</p>\n<p>Check out my basic Onion site @ zak2eej7zahsockgaxvifvphknugsxapzjhk3is342mvkldwkhochyad.onion</p>\n",
-				"content_text": "Just because I could, I set up a TOR Relay, and an Onion site for myself.\n\nI spun up a VM on DigitalOcean, and was able to get it all to work within 15 minutes (with some minor Linux work).\n\nCheck out my basic Onion site @ zak2eej7zahsockgaxvifvphknugsxapzjhk3is342mvkldwkhochyad.onion\n",
-				"date_published": "2023-11-01T13:51:08-08:00",
-				"url": "https://winnick.is/2023/11/01/just-because-i.html",
-				"tags": ["Status"]
-			},
-			{
 				"id": "http://zwin.micro.blog/2023/10/31/picked-up-a.html",
 				
 				"content_html": "<p>Picked up a pair of AirPods Pro with the USB-C case.</p>\n<p>Gotta say…I love Adaptive Audio.</p>\n<p>It took me about an hour to get used to it, and now I don’t know how I can use any other headphones…</p>\n<!-- raw HTML omitted -->\n",
