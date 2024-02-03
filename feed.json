@@ -7,12 +7,13 @@
 	"items": [
 		
 			{
-				"id": "http://zwin.micro.blog/2024/01/10/with-someall-of.html",
+				"id": "http://zwin.micro.blog/2024/01/31/new-office-with.html",
 				
-				"content_html": "<p>With some/all of the new &ldquo;Highland&rdquo; Model 3 changes rumored to come to the Model Y sometime this year, Tesla is making really hard for me to switch to a <a href=\"https://www.polestar.com/us/polestar-3/\">Polestar 3</a> next year&hellip;</p>\n",
-				"content_text": "With some/all of the new \"Highland\" Model 3 changes rumored to come to the Model Y sometime this year, Tesla is making really hard for me to switch to a [Polestar 3](https://www.polestar.com/us/polestar-3/) next year...\n",
-				"date_published": "2024-01-10T09:39:44-08:00",
-				"url": "https://winnick.is/2024/01/10/with-someall-of.html"
+				"content_html": "<p>New office with Bay vibes.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "New office with Bay vibes.\n\n<img src=\"uploads/2024/14f3073a91.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-01-31T12:51:43-08:00",
+				"url": "https://winnick.is/2024/01/31/new-office-with.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://zwin.micro.blog/2024/01/04/when-in-rome.html",
@@ -31,15 +32,6 @@
 				"date_published": "2024-01-01T19:20:52-08:00",
 				"url": "https://winnick.is/2024/01/01/when-your-mom.html",
 				"tags": ["Posts","Photos","Status"]
-			},
-			{
-				"id": "http://zwin.micro.blog/2024/01/01/i-spun-up.html",
-				
-				"content_html": "<p>I spun up my own <!-- raw HTML omitted -->Pixelfed<!-- raw HTML omitted --> instance today.</p>\n<p>It took a minute, but I finally got it right.</p>\n<p>You can follow me @ <!-- raw HTML omitted --><a href=\"mailto:zak@a16zw.com\">zak@a16zw.com</a><!-- raw HTML omitted -->.</p>\n",
-				"content_text": "I spun up my own <a href=\"https://pixelfed.social\" target=\"_blank\" rel=\"noopener\">Pixelfed</a> instance today.\n\nIt took a minute, but I finally got it right.\n\nYou can follow me @ <a href=\"https://a16zw.com/zak\" target=\"_blank\" rel=\"noopener\">zak@a16zw.com</a>.\n",
-				"date_published": "2024-01-01T14:23:24-08:00",
-				"url": "https://winnick.is/2024/01/01/i-spun-up.html",
-				"tags": ["Status"]
 			},
 			{
 				"id": "http://zwin.micro.blog/2023/12/31/finally-started-watching.html",
